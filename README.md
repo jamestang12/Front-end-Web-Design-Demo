@@ -18,6 +18,10 @@ Frontend website and UI creation in many different theme and all demo is complet
 * A Online Book Company Site(Carousel slider, animations and more)
 * [Link to Booker](https://www.cs.ryerson.ca/~h29tang/Booker/src/)
 
+## Daily
+* A business soical blog theme demo(Magnigic Popup, Owl carousel and more)
+* [Link to Daily](https://www.cs.ryerson.ca/~h29tang/Daily/)
+
 
 ## SpaceJack
 * Cloud hosting theme web demo(SideNav, cards, CSS overly and more)
